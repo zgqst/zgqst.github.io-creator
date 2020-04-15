@@ -40,13 +40,13 @@ git push -u origin master
 此时public目录已经上传至github仓库中
 ## 4. 设置github仓库
 * 进入github设置界面 如下为设置完成情况
-  ![图片](/static/iamge/1.png)
+  ![](/1.png)
   此时点击图中网址即可看到自己的博客界面
 ## 5. 购买域名与配置
 * 进入[阿里云](https://cn.aliyun.com/) 购买一个域名 进入如图页面
-![](/static/iamge/2.png)
+![](/2.png)
 * 在github的help列表中查找DNS 找到下图页面
-![](/static/iamge/3.png)
+![](/3.png)
 * 将DNS填入记录值中 完成域名配置
 ## 6. 添加域名至github
 * 进入`<github用户名>.github.io`仓库的设置页面 找到Custom domain选项卡 填入买好的域名 完成添加
